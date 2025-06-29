@@ -21,7 +21,7 @@ My academic interests lie in the areas of:
 ### Contact
 
 - Email: [hunychae@cau.ac.kr]  
-- Blog / Notion (if applicable): [coming soon]
+- Blog : [https://chaelog.com]
 - GitHub repositories below contain selected projects and coursework
 
 ---
